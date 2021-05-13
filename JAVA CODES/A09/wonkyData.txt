@@ -1,0 +1,24 @@
+Canada
+35160000 9985000
+Austria
+8474000 83855
+Japan
+127300000 377944
+Non-numeric Population
+oops 1000
+Brazil
+200400000 8516000
+Non-numeric Area
+1000 oops
+Zambia
+14540000 752614
+Negative Population
+-1  1000
+Negative Area
+1000 -0.1
+Vatican City
+842 0.44
+Singapore
+5399000 719.1
+Incomplete Data
+45
